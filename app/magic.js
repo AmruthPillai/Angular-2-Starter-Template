@@ -9,4 +9,3 @@ var Greeter = (function () {
 }());
 var greeter = new Greeter();
 greeter.saySomething('Namaskaaram!');
-//# sourceMappingURL=magic.js.map
